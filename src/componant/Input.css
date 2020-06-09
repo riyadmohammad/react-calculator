@@ -1,0 +1,23 @@
+.input{
+
+    height: 4cm;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.4em;
+    background: black;
+    color: #888888;
+    flex: 1;
+    outline: 1px solid #888888;
+
+
+
+
+}
+
+
+.operator {
+    background-color: #fe9241;
+    color: #ffffff;
+  }
